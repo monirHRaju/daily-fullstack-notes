@@ -13,6 +13,7 @@ A collection of daily notes on full-stack development and AI engineering.
 
 - Server Actions
 - App Router
+- Understanding Next.js: App Router, Server Components, and Data Fetching
 
 ## TypeScript
 
