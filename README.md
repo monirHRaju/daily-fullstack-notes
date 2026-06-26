@@ -50,3 +50,4 @@ A collection of daily notes on full-stack development and AI engineering.
 
 - Prompt Engineering
 - Vector Embeddings
+- AI Engineering
