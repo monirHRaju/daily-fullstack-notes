@@ -23,8 +23,13 @@ A collection of daily notes on full-stack development and AI engineering.
 
 ## Node.js
 
+
+
+## Express
+
 - Express Middleware
 - Error Handling
+- REST API Design with Express
 
 ## MongoDB
 
@@ -40,6 +45,7 @@ A collection of daily notes on full-stack development and AI engineering.
 
 - Multi-stage Builds
 - Docker Compose
+- Docker Fundamentals: Images, Containers, and Dockerfile
 
 ## System Design
 
