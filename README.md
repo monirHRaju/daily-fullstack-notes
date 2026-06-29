@@ -35,6 +35,8 @@ A collection of daily notes on full-stack development and AI engineering.
 
 - Schema Design
 - Aggregation Pipeline
+- MongoDB Fundamentals
+- Indexing Strategies
 
 ## PostgreSQL
 
