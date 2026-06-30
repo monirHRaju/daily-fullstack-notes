@@ -23,7 +23,7 @@ A collection of daily notes on full-stack development and AI engineering.
 
 ## Node.js
 
-
+- Event Loop and Async Patterns
 
 ## Express
 
