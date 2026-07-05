@@ -42,6 +42,7 @@ A collection of daily notes on full-stack development and AI engineering.
 
 - Indexing
 - Joins
+- PostgreSQL: An Overview
 
 ## Docker
 
@@ -53,6 +54,7 @@ A collection of daily notes on full-stack development and AI engineering.
 
 - Scalability Patterns
 - Caching Strategies
+- Load Balancing
 
 ## AI Engineering
 
