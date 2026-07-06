@@ -9,6 +9,7 @@ A collection of daily notes on full-stack development and AI engineering.
 - Context API
 
 - React Server Components
+- React Hooks
 ## Next.js
 
 - Server Actions
