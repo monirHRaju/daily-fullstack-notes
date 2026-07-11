@@ -33,6 +33,7 @@ A collection of daily notes on full-stack development and AI engineering.
 - Express Middleware
 - Error Handling
 - REST API Design with Express
+    - Validation and Sanitization in Express
 
 ## MongoDB
 
@@ -65,3 +66,4 @@ A collection of daily notes on full-stack development and AI engineering.
 - Prompt Engineering
 - Vector Embeddings
 - AI Engineering
+- [2026-07-11 Vector Databases for AI](AI Engineering/2026-07-11-vector-databases-for-ai.md)
