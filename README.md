@@ -23,6 +23,7 @@ A collection of daily notes on full-stack development and AI engineering.
 - Generics
 - Utility Types
 - Advanced TypeScript: Generics, Conditional Types, and Mapped Types
+- [2026-07-22 TypeScript](TypeScript/2026-07-22-typescript.md)
 
 ## Node.js
 
