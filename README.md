@@ -69,3 +69,4 @@ A collection of daily notes on full-stack development and AI engineering.
 - Vector Embeddings
 - AI Engineering
 - [2026-07-11 Vector Databases for AI](AI Engineering/2026-07-11-vector-databases-for-ai.md)
+- [2026-07-28 Fine-tuning Large Language Models](AI Engineering/2026-07-28-fine-tuning-large-language-models.md)
