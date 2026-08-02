@@ -62,6 +62,7 @@ A collection of daily notes on full-stack development and AI engineering.
 - Caching Strategies
 - Load Balancing
 
+- [2026-08-02 System Design](System Design/2026-08-02-system-design.md)
 ## AI Engineering
 
 - [2026-07-08](AI Engineering/2026-07-08-ai-engineering.md)
