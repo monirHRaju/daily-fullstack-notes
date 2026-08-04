@@ -34,6 +34,7 @@ A collection of daily notes on full-stack development and AI engineering.
 
 - Express Middleware
 - Error Handling
+- [2026-08-04 Express Error Handling Best Practices](Express/2026-08-04-express-error-handling.md)
 - REST API Design with Express
     - Validation and Sanitization in Express
 
