@@ -44,6 +44,7 @@ A collection of daily notes on full-stack development and AI engineering.
 - Aggregation Pipeline
 - MongoDB Fundamentals
 - Indexing Strategies
+- [2026-08-15 MongoDB](mongodb/2026-08-15-mongodb.md)
 
 ## PostgreSQL
 
