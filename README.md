@@ -51,6 +51,7 @@ A collection of daily notes on full-stack development and AI engineering.
 - Indexing
 - Joins
 - PostgreSQL: An Overview
+- [2026-08-17-postgresql](./PostgreSQL/2026-08-17-postgresql.md)
 
 ## Docker
 
