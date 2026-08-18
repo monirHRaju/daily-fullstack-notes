@@ -55,6 +55,7 @@ A collection of daily notes on full-stack development and AI engineering.
 
 ## Docker
 
+- [2026-08-18 Docker](Docker/2026-08-18-docker.md)
 - Multi-stage Builds
 - Docker Compose
 - Docker Fundamentals: Images, Containers, and Dockerfile
