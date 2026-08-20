@@ -29,6 +29,7 @@ A collection of daily notes on full-stack development and AI engineering.
 ## Node.js
 
 - Event Loop and Async Patterns
+- [2026-08-20 Node.js](Node.js/2026-08-20-node-js.md)
 
 ## Express
 
