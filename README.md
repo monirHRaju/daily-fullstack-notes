@@ -18,6 +18,8 @@ A collection of daily notes on full-stack development and AI engineering.
 - Understanding Next.js: App Router, Server Components, and Data Fetching
 
 - Next.js 13+ App Router: Server Components and Data Fetching
+- [2026-09-20 Next.js](Next.js/2026-09-20-nextjs.md)
+
 ## TypeScript
 
 - Generics
